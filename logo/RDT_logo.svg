@@ -9,8 +9,8 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="RDT_logo">
             <g id="Group-3" transform="translate(31.000000, 38.000000)">
-                <mask id="mask-2" fill="white">
-                    <use xlink:href="#path-1"></use>
+                <mask id="mask-2">
+                    <use xlink:href="#path-1" fill="white"></use>
                 </mask>
                 <use id="Rectangle" fill="#F44336" xlink:href="#path-1"></use>
                 <g id="Group-4" mask="url(#mask-2)" fill="#EF9A9A">
